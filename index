@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Pokemones</title>
+</head>
+<body>
+  <header>
+    <h1>Pokemones</h1>
+  </header>
+  <section class="pokemones">
+    <div class="pokemon1" style="order: 3;">
+      <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/003_f2.png">
+      <p>Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.</p>
+    </div>
+    <div class="pokemon2" style="order: 4;">
+      <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png">
+      <p>It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.</p>
+    </div>
+    <div class="pokemon3" style="order: 5;">
+      <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png">
+      <p>When it retracts its long neck into its shell, it squirts out water with vigorous force.</p>
+    </div>
+    <div class="pokemon4" style="order: 2;">
+      <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png">
+      <p>When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.</p>
+    </div>
+    <div class="pokemon5" style="order: 1;">
+      <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png">
+      <p>WThere is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger..</p>
+    </div>
+    <div class="pokemon6" style="order: 6;">
+      <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png">
+      <p>For protection, it releases a horrible stench from the antenna on its head to drive away enemies</p>
+    </div>
+  </section>
+</body>
+</html>
