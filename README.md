@@ -1,3 +1,3 @@
 # Araceli-gp.github.io
-Page of pokemons
-Contains HTML and CSS
+<p>Page of pokemons</p>
+<p>Contains HTML and CSS</p>
